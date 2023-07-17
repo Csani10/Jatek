@@ -1,0 +1,21 @@
+Ennek a játéknak az írányítása:
+Fekete karakter:
+	Fel: w
+	Le: s
+	Balra: a
+	Jobbra: d
+	Lövés: BalControl
+Piros karakter:
+	Fel: w
+	Le: s
+	Balra: a
+	Jobbra: d
+	Lövés: JobbControl
+
+Készítette: Mózner Csanád
+Verzió: ver 1.1
+Változási napló:
+ver 1.0:
+	Elkészült a játék!
+ver 1.1:
+	Kilépésnél hiba kijavítva
